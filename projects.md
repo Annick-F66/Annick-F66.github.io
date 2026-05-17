@@ -10,4 +10,4 @@ Here is a breakdown of the key projects and assessments completed during my 10-m
 *Javascript test, done with Angular
 
 ## Other projects
-Other exercises that we made
+Other exercises and projects that we made
