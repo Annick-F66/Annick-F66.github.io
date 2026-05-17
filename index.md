@@ -10,6 +10,8 @@ Senior it application engineer. Last year (2025), I dedicated 10 months to a rig
 heavily on the Microsoft stack. 
 You can find my work history and education @ www.thepagemakers.com
 
+**[View my Projects & Code Tests](projects.md)
+
 ---
 
 ## Beyond the Code (Privately)
