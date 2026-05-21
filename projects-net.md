@@ -1,4 +1,4 @@
-# .NET C# Projects & Education
+# .NET C# Projects & Tests
 
 Here is a breakdown of the key projects and assessments completed during my 10-month intensive training.
 
