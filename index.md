@@ -10,7 +10,7 @@ Senior it application engineer. Last year (2025), I dedicated 10 months to a rig
 heavily on the Microsoft stack. 
 You can find my work history and education @ www.thepagemakers.com
 
-**[View my .NET C# Projects & Tests created during the VDAB Full Stack cource](projects-net.md)
+**[View my .NET C# Projects & Tests created during the VDAB Full Stack cource](projects-net.md)**
 
 ---
 
