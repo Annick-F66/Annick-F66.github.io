@@ -1,3 +1,8 @@
+---
+layout: default
+title: Annick Fabri's Portfolio
+---
+
 ## Professional Journey
 
 ### My IT career
