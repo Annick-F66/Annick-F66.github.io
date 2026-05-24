@@ -1,3 +1,8 @@
+---
+layout: default
+title: Annick Fabri's Portfolio
+---
+
 ## Professional Journey
 
 ### My IT career
@@ -8,6 +13,6 @@ You can find my CV @ www.thepagemakers.com
 
 C# Programming Fundamentals / OOP / HTML & CSS / JavaScript / SQL / Gegevensanalyse / UML / Design Patterns / Regular Expressions / Test Driven Development / Entity Framework / Model View Controller / XML / Razor pages / Blazor / JavaScript framework / Docker / Azure / Messaging / CQRS / Domain Driven Design
 
-**<a href="projects-net.md" target="_blank">View my .NET C# Projects & Tests created during the VDAB Full Stack cource</a>**
+**<a href="projects-net.html" target="_blank">View my .NET C# Projects & Tests created during the VDAB Full Stack cource</a>**
 
 ---

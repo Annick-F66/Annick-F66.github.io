@@ -1,4 +1,9 @@
-Full Stack Developer (C#/.NET) training program at VDAB (2025)
+---
+layout: default
+title: Annick Fabri's Portfolio
+---
+
+# Full Stack Developer (C#/.NET) training program at VDAB (2025)
 Here is a breakdown of the key projects and assessments completed during my 10-month intensive training.
 
 ## Tests
