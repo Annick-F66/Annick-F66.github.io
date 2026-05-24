@@ -7,7 +7,7 @@ title: Annick Fabri's Portfolio
 
 ### My IT career
 With over 30 years of experience as a developer, functional analyst, and software tester, I have built a versatile, senior IT profile. A natural analytical mindset and the ability to excel both independently and within a team form the foundation of my proven track record. My flexibility to quickly master new roles and technologies has been demonstrated repeatedly throughout my career. The combination of this extensive expertise and a recently completed Full Stack Developer (C#/.NET) training program at VDAB makes me an immediate asset to your team.  
-You can find my CV @ <a href="https://www.thepagemakers.com" target="_blank">www.thepagemakers.com</a>
+You can find my CV @ <a href="https://www.thepagemakers.com" target="_blank">www.ThePageMakers.com</a>
 
 
 ### Full Stack Developer (C#/.NET) training program at VDAB (2025)
