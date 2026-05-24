@@ -1,8 +1,3 @@
-# Welcome! I'm Annick Fabri.
-I'm a senior It Application engineer.
-
----
-
 ## Professional Journey
 
 ### My IT career
