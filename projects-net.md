@@ -10,7 +10,7 @@ Here is a breakdown of the key projects and assessments completed during my 10-m
 
 ### Final test : JavaScript framework Angular
 * **Test assignment:**  You will develop an application to view international professional tennis players, including a top 3 overview. Users can search for players, add or delete them, and edit details like name and country. The app uses routing for navigation, and all player operations (listing, deleting, etc.) are handled via HTTP.
-* **Languages used:** C#, TypeScript, HTML, JavaScript, CSS
+* **Languages used:** C#, HTML, JavaScript, CSS
 * **Score:** 100/100
 * **[Link to code 'Players'](https://github.com/Annick-F66/Players01/tree/master)**
 
@@ -27,3 +27,11 @@ You call your REST service and display the user's zodiac sign.
 * **Languages used:** C#
 * **Score:** 70/100
 * **[Link to code 'Sterrenbeelden'](https://github.com/Annick-F66/Sterrenbeelden)**
+
+### Test : Model View Controller - part 2
+* **Test assignment:** You are writing a web application for a video rental company.
+To create the web application, you start with an ASP.NET Core Web Application. Choose the Web Application (Model-View-Controller) template without authentication.
+For the data layer, you add a Class Library. In this project, you create a database using the code-first method.
+* **Languages used:** C#, HTML, JavaScript, CSS
+* **Score:** 95/100
+* **[Link to code 'VideoVerhuur'](https://github.com/Annick-F66/MVCVideoVerhuur/tree/master)**
