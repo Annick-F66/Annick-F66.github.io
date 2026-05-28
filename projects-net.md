@@ -14,7 +14,7 @@ Here is a breakdown of the key projects and assessments completed during my 10-m
 * **Score:** 100/100
 * **[Link to code 'Players'](https://github.com/Annick-F66/Players01/tree/master)**
 
-### Final test : Web API
+### Test : Web API
 * **Test assignment:**
   - Rest Service: You are creating a REST service. It returns information about zodiac signs. 
 A client makes a GET request to http://localhost:5000/sterrenbeelden/14-6.
