@@ -34,4 +34,10 @@ To create the web application, you start with an ASP.NET Core Web Application. C
 For the data layer, you add a Class Library. In this project, you create a database using the code-first method.
 * **Languages used:** C#, HTML, JavaScript, CSS
 * **Score:** 95/100
-* **[Link to code 'VideoVerhuur'](https://github.com/Annick-F66/MVCVideoVerhuur/tree/master)**
+* **[Link to code 'VideoVerhuur'](https://github.com/Annick-F66/MVCVideoVerhuur/tree/V003)**
+
+### Test : Entity Framework
+* **Test assignment:** Create a console application in Visual Studio in which you manage data of countries, cities/municipalities in those countries, and the official languages spoken there.
+* **Languages used:** C#
+* **Score:** 95/100
+* **[Link to code 'LandenStedenTalen'](https://github.com/Annick-F66/LandenStedenTalen)**
