@@ -41,3 +41,12 @@ For the data layer, you add a Class Library. In this project, you create a datab
 * **Languages used:** C#
 * **Score:** 95/100
 * **[Link to code 'LandenStedenTalen'](https://github.com/Annick-F66/LandenStedenTalen/tree/V003)**
+
+### Test : Model View Controller - part 1
+* **Test assignment:** You are creating an ASP.NET Core MVC web application for a pasta bar. The web application consists of 3 pages:
+  - A page where you can make a selection for a pasta dish
+  - A page where you can see an overview of the orders
+  - A registration page for a newsletter
+* **Languages used:** C#, HTML, JavaScript, CSS
+* **Score:** 80/100
+* **[Link to code 'ThePastaShop'](https://github.com/Annick-F66/MVCThePastaShop)**
