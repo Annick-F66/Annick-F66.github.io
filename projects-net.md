@@ -50,3 +50,16 @@ For the data layer, you add a Class Library. In this project, you create a datab
 * **Languages used:** C#, HTML, JavaScript, CSS
 * **Score:** 80/100
 * **[Link to code 'ThePastaShop'](https://github.com/Annick-F66/MVCThePastaShop)**
+
+### Test : Test Driven Development
+* **Test assignment:** Creating a Persoon class with Test-Driven Development (TDD).  
+The private variable voornaam (first name) and the constructor parameter are a List<string>.
+The analysis reveals the following rules:
+  - A person must have at least one first name.
+  - A person cannot have the same first name twice.
+  - Each first name must contain at least one character.
+  - The ToString method must return a String consisting of all the person's first names, separated by a space.
+* **Languages used:** C#
+* **Score:** 73,33/100
+* **[Link to code 'Persoon'](https://github.com/Annick-F66/TDDTest)**
+
